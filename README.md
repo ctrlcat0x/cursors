@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Basilisk Banner" width="800">
+  <img src="banner.png" alt="Basilisk Banner">
 </p>
-# <p align="center">Custom Cursor Collection</p>
 Enhance your desktop experience with unique and stylish pointer themes! This project is a curated collection of custom cursor packs for both Windows and Linux.
 
 ## Cursor Collection
