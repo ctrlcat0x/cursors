@@ -3,7 +3,7 @@ Enhance your desktop experience with unique and stylish pointer themes! This pro
 
 ## Cursor Collection
 
-| Cursor Name  | Description                                                                 | Tags                |
+| Cursor | Description                                                                 | Tags                |
 |--------------|-----------------------------------------------------------------------------|---------------------|
 | Anya Forger  | Inspired by Anya Forger from the anime Spy x Family. Cute, anime-themed cursors. | Anime, Cute, Themed |
 
