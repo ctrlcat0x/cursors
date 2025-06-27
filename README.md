@@ -1,6 +1,11 @@
-# Custom Cursor Collection
+# <p align="center">Custom Cursor Collection</p>
+Enhance your desktop experience with unique and stylish pointer themes! This project is a curated collection of custom cursor packs for both Windows and Linux.
 
-This project is a collection of custom cursors designed for both Windows and Linux operating systems. Enhance your desktop experience with unique and stylish pointer themes!
+## Cursor Collection
+
+| Cursor Name  | Description                                                                 | Tags                |
+|--------------|-----------------------------------------------------------------------------|---------------------|
+| Anya Forger  | Inspired by Anya Forger from the anime Spy x Family. Cute, anime-themed cursors. | Anime, Cute, Themed |
 
 ## Features
 - A variety of custom cursor designs
@@ -10,22 +15,22 @@ This project is a collection of custom cursors designed for both Windows and Lin
 ## Getting Started
 
 ### 1. Download the Cursors
-Extract the contents of the `anya_forger.zip` file to access the cursor files.
+Extract the contents of the desired `.zip` file (e.g., `anya_forger.zip`) to access the cursor files.
 
 ### 2. Installation
 
 #### Windows
-#### Automated
-1. Right click on the `installer.inf` file
-2. Click on install.
-3. Go to `Control Panel` > `Mouse` > `Pointers` tab.
+**Automated:**
+1. Right-click on the `installer.inf` file (if provided).
+2. Click on Install.
+3. Go to `Control Panel` > `Mouse` > `Pointers` tab to select your new cursors.
 
-#### Manual
-2. Open the extracted folder and copy the cursor files (`.cur` and `.ani`).
-3. Go to `Control Panel` > `Mouse` > `Pointers` tab.
-4. Select a pointer role (e.g., Normal Select), click `Browse...`, and choose your custom cursor.
-5. Repeat for other pointer roles as desired.
-6. Click `Save As...` to save your new cursor scheme.
+**Manual:**
+1. Open the extracted folder and copy the cursor files (`.cur` and `.ani`).
+2. Go to `Control Panel` > `Mouse` > `Pointers` tab.
+3. Select a pointer role (e.g., Normal Select), click `Browse...`, and choose your custom cursor.
+4. Repeat for other pointer roles as desired.
+5. Click `Save As...` to save your new cursor scheme.
 
 #### Linux (X11, e.g., GNOME, KDE)
 1. Extract the cursor theme folder to `~/.icons/` or `/usr/share/icons/`.
@@ -35,13 +40,14 @@ Extract the contents of the `anya_forger.zip` file to access the cursor files.
 3. You may need to restart your session for changes to take effect.
 
 ## Contributing
-Feel free to submit your own cursor designs or improvements via pull requests!
+Enjoy your new cursors! If you have any issues or suggestions, please open an issue or contribute directly. Feel free to submit your own cursor designs or improvements via pull requests!
 
 ## License
-This project is open source. Since I do not own any of the cursors provided in this repository, I do pose claim or ownership to any of the content provided. The license and ownership retains to the original artists. 
+This project is open source. The cursors provided in this repository are the property of their original artists. No ownership is claimed over the content provided. Please respect the original licenses and attributions where possible.
 
 ## Credits
-- Cursors are desgined by several different artists and I cannot atribute all of them even if I tried to hence the ownership of the contents of the repository is of the original artists. 
-
+- Cursors are designed by various artists. Attribution is given where possible, but ownership remains with the original creators.
 ---
-Enjoy your new cursors! If you have any issues or suggestions, please open an issue or contribute directly. 
+<p align="center">
+  <strong>Made with ❤️ by ctrlcat0x</strong>
+</p> 
