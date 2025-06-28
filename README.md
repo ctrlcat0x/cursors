@@ -14,21 +14,27 @@ Enhance your desktop experience with unique and stylish pointer themes! This pro
 | Cantarella                         | Inspired by Cantarella from Wuthering Waves. Stylish, game-themed cursors.      | Wuthering Waves, Game, Themed |
 | Carlotta                           | Inspired by Carlotta from Wuthering Waves. Unique, game-themed cursors.         | Wuthering Waves, Game, Themed |
 | Carthenyia                         | Inspired by Carthenyia from Wuthering Waves. Modern, game-themed cursors.       | Wuthering Waves, Game, Themed |
+| Changli                            | Inspired by Changli from Wuthering Waves. Sleek, game-themed cursors.           | Wuthering Waves, Game, Themed |
 | Chihiya Anon                       | Inspired by Chihiya Anon.                                                      | Anime, Themed               |
 | Ciaccona                           | Inspired by Ciaccona. Artistic, themed cursors.                                 | Artistic, Themed             |
-| Changli                            | Inspired by Changli from Wuthering Waves. Sleek, game-themed cursors.           | Wuthering Waves, Game, Themed |
 | Cinnamon Cursors                   | Cinnamon desktop inspired. Clean, minimal cursors.                              | Linux, Minimal, Themed       |
 | Cyberpunk                          | Cyberpunk inspired. Futuristic, neon-themed cursors.                            | Cyberpunk, Futuristic, Themed|
+| Ellen Joe                          | Inspired by Ellen Joe. Unique, themed cursors.                                | Themed                      |
 | Felyne Bow                         | Felyne with Bow. Game-themed, Monster Hunter.                                   | Monster Hunter, Game, Themed |
 | Felyne Great Sword                 | Felyne with Great Sword. Game-themed, Monster Hunter.                           | Monster Hunter, Game, Themed |
 | Felyne Normal (No Weapon)          | Felyne (no weapon). Game-themed, Monster Hunter.                                | Monster Hunter, Game, Themed |
 | Frieren                            | Inspired by Frieren. Anime, fantasy-themed cursors.                             | Anime, Fantasy, Themed       |
 | Frieren Winter                     | Inspired by Frieren (Winter). Anime, fantasy-themed cursors.                    | Anime, Fantasy, Themed       |
 | Furina 2.0                         | Inspired by Furina from Genshin Impact. Modern, game-themed cursors.            | Genshin Impact, Game, Themed |
+| Kuro                               | Inspired by Kuro. Dark, themed cursors.                                       | Dark, Themed                |
 | Mauvika                            | Inspired by Mauvika from Genshin Impact. Vibrant, game-themed cursors.          | Genshin Impact, Game, Themed |
 | Nezuko Cursor                      | Inspired by Nezuko from Demon Slayer. Anime, themed cursors.                     | Anime, Themed                |
+| Neuro Sama                         | Inspired by Neuro Sama. Modern, themed cursors.                               | Modern, Themed              |
+| Noelle                             | Inspired by Noelle from Genshin Impact. Elegant, game-themed cursors.         | Genshin Impact, Game, Themed |
 | Shorekeeper                        | Inspired by Shorekeeper from Wuthering Waves. Distinct, game-themed cursors.    | Wuthering Waves, Game, Themed |
+| Shiori Novella                     | Inspired by Shiori Novella from Hololive. Cute, VTuber-themed cursors.        | Hololive, VTuber, Cute, Themed |
 | Sousou no Frieren                  | Inspired by Sousou no Frieren. Anime, fantasy-themed cursors.                   | Anime, Fantasy, Themed       |
+| Wanderer                           | Inspired by Wanderer from Genshin Impact. Mysterious, game-themed cursors.     | Genshin Impact, Game, Themed |
 | Windows 11 Dark                    | Windows 11 Dark style. Minimal, modern, OS-inspired.                            | Windows, Minimal, Dark       |
 | Windows 11 Light                   | Windows 11 Light style. Minimal, modern, OS-inspired.                           | Windows, Minimal, Light      |
 | Zani                               | Inspired by Zani from Wuthering Waves. Artistic, game-themed cursors.           | Wuthering Waves, Game, Themed |
